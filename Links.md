@@ -1,4 +1,4 @@
-##List of useful links for building the SOL project
+# List of useful links for building the SOL project
 
 Basic Setup instructions: https://www.konsulko.com/building-a-custom-linux-distribution-for-nvidia-cuda-enabled-embedded-devices/
 
