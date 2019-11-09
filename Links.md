@@ -8,6 +8,14 @@ Poky/Yocto: https://git.yoctoproject.org/cgit/cgit.cgi/poky/
 
 Tegra layer: https://github.com/SOL-Space-Operating-Linux/meta-tegra(forked from madisongh)
 
+linux-tegra: https://github.com/SOL-Space-Operating-Linux/linux-tegra-4.9(forked from madisongh)
+
 Virtualization layer: http://git.yoctoproject.org/cgit/cgit.cgi/meta-virtualization
 
 Belena OS Documentation (Yocto/Docker based build for Jetson): https://www.balena.io/os/docs/jetson-tx2/getting-started/
+
+
+Questions for building a new carrier: https://github.com/madisongh/meta-tegra/issues/67
+
+
+
