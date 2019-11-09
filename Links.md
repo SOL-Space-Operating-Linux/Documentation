@@ -19,3 +19,7 @@ Questions for building a new carrier: https://github.com/madisongh/meta-tegra/is
 
 
 
+Need to build custom kernel (for CTI integration)
+
+Toolchain Required: https://developer.nvidia.com/embedded/downloads#?search=tool%20chain (GCC Tool Chain for 64-bit BSP 32.2)
+
