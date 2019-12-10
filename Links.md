@@ -23,3 +23,7 @@ Need to build custom kernel (for CTI integration)
 
 Toolchain Required: https://developer.nvidia.com/embedded/downloads#?search=tool%20chain (GCC Tool Chain for 64-bit BSP 32.2)
 
+Serial console: https://www.jetsonhacks.com/2017/03/24/serial-console-nvidia-jetson-tx2/
+
+Orbitty Pinout/HW Sheet: http://www.connecttech.com/pdf/CTIM-ASG003_Manual.pdf
+
