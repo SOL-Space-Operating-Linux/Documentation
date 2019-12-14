@@ -6,6 +6,8 @@ Docker build system setup: https://www.embeddeduse.com/2019/02/11/using-docker-c
 
 Poky/Yocto: https://git.yoctoproject.org/cgit/cgit.cgi/poky/
 
+Yocto walkthrough: https://www.foobarflies.io/starting-with-yocto/
+
 Tegra layer: https://github.com/SOL-Space-Operating-Linux/meta-tegra(forked from madisongh)
 
 linux-tegra: https://github.com/SOL-Space-Operating-Linux/linux-tegra-4.9(forked from madisongh)
