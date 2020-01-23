@@ -30,5 +30,7 @@ Serial console: https://www.jetsonhacks.com/2017/03/24/serial-console-nvidia-jet
 Orbitty Pinout/HW Sheet: http://www.connecttech.com/pdf/CTIM-ASG003_Manual.pdf
 
 git-repo utility: https://gerrit.googlesource.com/git-repo
+
 git-repo manifest cheat sheet: https://docs.sel4.systems/RepoCheatsheet
+
 git-repo commands: https://source.android.com/setup/develop/repo
